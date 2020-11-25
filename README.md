@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* WA : +1 (443) 731-7174 ZOROJURO
+* PAP TT : +1 (443) 731-7174 ZOROJURO
